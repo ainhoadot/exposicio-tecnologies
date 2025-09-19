@@ -1,5 +1,7 @@
 # Visual Studio Code (VSCode)
 
+Enllaç Presentació: [https://docs.google.com/presentation/d/1x_WziiKcdDKaHh2oVnENEd9Ur69LFZ5xeYfOBfzZeCE/edit?usp=sharing](url)
+
 ## Introducció
 **Visual Studio Code** (VSCode) és un editor de codi gratuït i de codi obert desenvolupat per Microsoft. És una eina lleugera però potent que ofereix suport per a múltiples llenguatges de programació i funcionalitats avançades mitjançant extensions. Dissenyat per a edició i depuració de codi, és ideal per a desenvolupadors de tots els nivells.
 
